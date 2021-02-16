@@ -4,5 +4,5 @@ Program solves the 0-1 knapsack problem recursively. Program requires input text
 2-nth line - [weight, value]
 
 In order to run, use: 
-g++ -o knapsack knapsack.cpp
+g++ -o knapsack knapsack.cpp </br>
 ./knapsack [input text file]
