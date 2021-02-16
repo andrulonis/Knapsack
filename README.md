@@ -1,4 +1,4 @@
-# Knapsack 0-1 solver
+# 0-1 knapsack solver
 Program solves the 0-1 knapsack problem recursively. Program requires input text file (examplary one in the repo) with syntax being: </br>
 1st line - [capacity of knapsack] </br>
 2-nth line - [weight, value]
