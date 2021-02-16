@@ -6,3 +6,5 @@ Program solves the 0-1 knapsack problem recursively. Program requires input text
 In order to run, use: 
 g++ -o knapsack knapsack.cpp </br>
 ./knapsack [input text file]
+
+Programme outputs what items were included, alongside the total value and weight achieved.
